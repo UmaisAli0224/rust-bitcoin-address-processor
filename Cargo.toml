@@ -1,0 +1,4 @@
+[dependencies]
+rust-cuda = "0.3.0"
+bitcoin = "0.26.0"
+rayon = "1.5.0"
